@@ -1,3 +1,3 @@
-module maisdindin-api
+module maisdindin
 
 go 1.14
