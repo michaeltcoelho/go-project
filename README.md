@@ -1,2 +1,2 @@
-# maisdindin-api
-MaisDinDin API
+# Golang example
+Golang project structure example
